@@ -29,6 +29,13 @@
             "es5BrowserSupport": true
           },
           "configurations": {
+            "bug": {
+              "aot": true,
+              "sourceMap": false,
+              "watch": true,
+              "namedChunks": true,
+              "vendorChunk": true
+            },
             "production": {
               "fileReplacements": [
                 {
