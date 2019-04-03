@@ -6,7 +6,7 @@ This is a test case for bug <https://github.com/angular/angular-cli/issues/14060
 
 To reproduce:
 
-1. Clone this gist
+1. Clone this repository
 1. Run `npm install`
 1. Install Angular CLI globally if needed
 1. Run `ng build --configuration=bug` from the terminal and wait for it to build
