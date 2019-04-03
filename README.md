@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
-This is a test case for bug `https://github.com/angular/angular-cli/issues/14060`
+This is a test case for bug <https://github.com/angular/angular-cli/issues/14060>
 
 To reproduce:
 
